@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialLogin</string>
+
+    <string name="facebook_app_id">598979628182667</string>
+    <string name="fb_login_protocol_scheme">fb598979628182667</string>
+
+    <string name="twitterapikey">bOM1HV6pWqAE1gIWyGb3c0ugI</string>
+    <string name="twittersecret">Wfu7mc9Cg99UAie8e9R28Hzz577bpokBCgWZoch5gC1snX8kK4</string>
+
+</resources>
